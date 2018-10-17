@@ -1,4 +1,4 @@
-Missionaires and Cannibals 
+#Missionaires and Cannibals 
 
 
 ## Problem
@@ -14,6 +14,4 @@ Generate State Diagram to find path to solution
 Solution written in Python 3.4 
 
 ### Deployment 
-'''
 ./solution.py
-'''
