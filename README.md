@@ -1,4 +1,4 @@
-#Missionaires and Cannibals 
+# Missionaires and Cannibals 
 
 
 ## Problem
